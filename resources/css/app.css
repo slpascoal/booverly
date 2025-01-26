@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.botao-nav li{
+    padding: 3px 10px;
+    border-radius: 10px;
+    transition: 0.4s;
+}
+
+.botao-nav li:hover{
+    background-color: #E0E7FF;
+    transition: 0.4s;
+}
