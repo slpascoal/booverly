@@ -12,3 +12,7 @@
     background-color: #E0E7FF;
     transition: 0.4s;
 }
+
+.botao-dentro input:focus{
+    outline: 0;
+}
